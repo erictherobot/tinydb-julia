@@ -1,6 +1,6 @@
 # TinyDB Julia
 
-An extremely simple database written in Julia. This is a very rudimentary database and lacks many features you would expect in a production-ready system, such as indexing for fast lookups, transactions, concurrency control, error handling, data integrity checks, and more. It is intended to be used for small projects where you need a database but don't want to deal with the overhead of setting up a full-fledged database.
+An extremely simple database written in the Julia Programming Language. This is a very rudimentary database and lacks many features you would expect in a production-ready system, such as indexing for fast lookups, transactions, concurrency control, error handling, data integrity checks, and more. It is intended to be used for small projects where you need a database but don't want to deal with the overhead of setting up a full-fledged database.
 
 ## Installation
 
