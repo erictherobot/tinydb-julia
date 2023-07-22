@@ -1,0 +1,7 @@
+name = "TinyDB Julia"
+uuid =  "6c4e982e-a535-4b5e-9194-579fec415b31"
+authors = ["Eric David Smith <erictherobot@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Example = "3b0faca5-364b-4f82-9b86-860f2f4e6d2a"
